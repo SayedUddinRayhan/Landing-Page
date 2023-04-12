@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Inter' !important;
+    overflow-x: hidden;
 }
 
 .nav-item a {
@@ -91,7 +92,7 @@ body {
     line-height: 18px;
     letter-spacing: -0.1px;
     color: #9A9EA7;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     margin-left: 10px;
 }
 
@@ -113,7 +114,7 @@ body {
     width: 130px;
 }
 
-.section1 .topfooter i {
+.section1 .topfooter img {
     color: #FFFFFF;
     margin-right: 6px;
 }
@@ -129,4 +130,35 @@ body {
     flex: none;
     order: 1;
     flex-grow: 0;
+}
+
+.section1 .topfooter .borderright {
+    border-right: 1px solid rgb(0, 0, 0);
+    height: 40px;
+    margin-top: 20px;
+}
+
+.section1 .topfooter .down {
+    margin-top: 7px;
+}
+
+@media all and (max-width: 767px) {
+    .section1 h1 {
+        font-size: 35px;
+    }
+
+    .section1 .section1p {
+        font-size: 14px;
+    }
+
+    .section1 .topfooter .col-md-2 {
+        padding: 8px;
+        margin: 11px;
+    }
+
+    #searchbtn {
+        margin-left: 12px;
+        width: 97%;
+        text-align: center;
+    }
 }
