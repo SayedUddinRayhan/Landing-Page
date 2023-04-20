@@ -177,6 +177,13 @@ body {
     color: #9A9EA7;
 }
 
+.activediv .float-end .btn {
+    width: 40px;
+    height: 40px;
+    background: #F5F6F7;
+    border-radius: 10px;
+}
+
 .section3 .card {
     width: 300px;
     height: 380px;
@@ -205,6 +212,46 @@ body {
     color: #9A9EA7;
 }
 
+
+.section3 .card .card-logo {
+    width: 50px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid #E4E6E8;
+    border-radius: 14px;
+    text-align: center;
+}
+
+.section3 .card .card-logo img {
+    width: 22px;
+    height: 22px;
+    margin-top: 13px;
+}
+
+.section3 .card .card-body .first {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+
+.section3 .card .card-body .second {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+
+}
+
+.section3 .card .card-body .part2 {
+    margin-top: 20px;
+}
 
 
 
