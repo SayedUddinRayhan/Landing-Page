@@ -147,6 +147,65 @@ body {
     margin-left: 50px;
 }
 
+.section3 {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.activediv {
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+
+.activediv .float-start h5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+
+.activediv .float-end span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    color: #9A9EA7;
+}
+
+.section3 .card {
+    width: 300px;
+    height: 380px;
+    padding: 20px;
+    background: #FFFFFF;
+    border: 1px solid #E4E6E8;
+    border-radius: 14px;
+}
+
+.section3 .card-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0D0A19;
+}
+
+.section3 .card-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+
+
 
 
 
