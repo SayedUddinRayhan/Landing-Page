@@ -292,6 +292,50 @@ body {
 }
 
 
+.section4 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.section4 .find {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+
+.section4 .find-m {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+    width: 80px;
+}
+
+
+.section4 .find-right {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+
+
 
 @media all and (max-width: 767px) {
     .section1 h1 {
@@ -319,5 +363,15 @@ body {
 
     .section2 .sec2img {
         margin-top: 35px;
+    }
+
+    .section3 .row .card {
+        margin-top: 25px;
+    }
+
+    .section3 .row {
+        width: 270px;
+        height: 1400px;
+        margin: auto;
     }
 }
