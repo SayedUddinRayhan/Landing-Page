@@ -335,6 +335,61 @@ body {
     color: #9A9EA7;
 }
 
+.section4 .sec4heading {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+
+}
+
+.section4 .sec4brandname {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0D0A19;
+
+}
+
+.section4 .sec4amount {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+
+.section4 .img1 {
+    width: 45px;
+    height: 27px;
+}
+
+.section4 .img2 {
+    width: 40px;
+    height: 40px;
+}
+
+.section4 .sec4details {
+    margin-top: -11px;
+}
+
+.section4 .sec4p {
+    margin-top: -15px;
+}
+
+.section4 .sec4icon {
+    margin-left: 140px;
+}
+
+
+
 
 
 @media all and (max-width: 767px) {
